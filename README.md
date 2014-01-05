@@ -1,8 +1,10 @@
-[Early days - needs tests etc. and would be nice to make it a chrome extension]
+[Early days - needs tests, proper organization etc. Would also be nice to make it a chrome extension]
 
-# WORDY
-### embedded word frequency util
+## WORDY
+### An embedded word frequency util
 
-Wordy lists all words on the current web page by usage frequency. Use the bookmarklet to generate a data popup for the current page.
+Wordy lists all words on the current web page by usage frequency. Use the bookmarklet to generate a data popup for the current page. Use the slider to adjust the minimum word size.
+
+![alt tag](https://raw.github.com/angus-c/wordy/master/demo.png)
 
 
