@@ -1,4 +1,4 @@
-[Early days - needs tests etc. and would be nice to make it a chrome extension]
+Todo: needs more tests and would be nice to make it a chrome extension.
 
 # WORDY
 ### embedded word frequency util
