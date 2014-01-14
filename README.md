@@ -7,4 +7,8 @@ Wordy lists all words on the current web page by usage frequency. Use the bookma
 
 ![alt tag](https://raw.github.com/angus-c/wordy/master/demo.png)
 
+You can also filter the results with a regular expression
+
+![alt tag](https://raw.github.com/angus-c/wordy/master/demo2.png)
+
 
