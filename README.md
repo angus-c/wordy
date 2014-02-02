@@ -1,4 +1,6 @@
-TODO: needs more tests and would be nice to make it a chrome extension.
+[![Build Status](https://travis-ci.org/angus-c/wordy.png?branch=master)](http://travis-ci.org/angus-c/wordy)
+
+(For the chrome extension see https://github.com/angus-c/wordy-extension)
 
 ## WORDY
 ### An embedded word frequency util
