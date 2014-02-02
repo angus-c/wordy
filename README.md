@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/angus-c/wordy.png?branch=master)](http://travis-ci.org/angus-c/wordy)
 
-(For the chrome extension see https://github.com/angus-c/wordy-extension)
+(For the chrome extension see [wordy-extension](https://github.com/angus-c/wordy-extension))
 
 ## WORDY
 ### An embedded word frequency util
